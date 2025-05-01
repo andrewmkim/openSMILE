@@ -18,7 +18,7 @@ This is a FastAPI application that uses openSMILE to analyze voice recordings an
    - Build Command: `pip install -r requirements.txt`
    - Start Command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
 4. Add the following environment variables:
-   - `PYTHON_VERSION`: `3.9`
+   - `PYTHON_VERSION`: `3.9.13`
 
 ### Option 2: Deploy on Fly.io
 
